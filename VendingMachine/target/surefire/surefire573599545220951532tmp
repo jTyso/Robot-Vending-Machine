@@ -1,0 +1,8 @@
+#surefire
+#Sun Dec 23 22:09:54 CST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\J\\Documents\\NetBeansProjects\\VendingMachine
+file.encoding=UTF-8
+localRepository=C\:\\Users\\J\\.m2\\repository
+basedir=C\:\\Users\\J\\Documents\\NetBeansProjects\\VendingMachine
+test=com.vendingmachine.view.UserIOTest
